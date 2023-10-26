@@ -54,11 +54,9 @@ Github：https://github.com/maxoyed
 
 百度智能云发起了【寻找游戏大模王】活动，用千帆大模型探索游戏的N种全新玩法，还有巨额奖金等你瓜分~
 
-报名链接：https://cloud.baidu.com/survey_summit/qrl.html?track=C452658
+B站活动主页：https://www.bilibili.com/blackboard/era/f4nhUC812nfO2RhQ.html
 
-百度智能云千帆大模型平台：https://cloud.baidu.com/product/wenxinworkshop
-
-百度智能云千帆社区：https://cloud.baidu.com/qianfandev
+报名链接/进入大赛交流群：https://cloud.baidu.com/survey_summit/qrl.html?track=C452658
 
 创意讨论、大佬组队：B站私信“同济子豪兄”
 
