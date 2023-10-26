@@ -12,6 +12,8 @@
 
 视频介绍：https://www.bilibili.com/video/BV1F94y1j7AP
 
+主页：https://github.com/TommyZihao/LLM_Dormitory
+
 【游戏安装包下载】公众号 人工智能小技巧 回复 宿管阿姨
 
 【加入大模型游戏交流群】公众号 人工智能小技巧 回复 宿管阿姨
